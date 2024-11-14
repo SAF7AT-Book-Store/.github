@@ -39,5 +39,5 @@ Welcome to our comprehensive e-book marketplace, your go-to platform for discove
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#172554](https://placehold.co/10/172554/172554) #172554 |
-| Secondary Color | ![a68c75](https://placehold.co/10/a68c75/a68c75) #a68c75 |
+| Primary | ![#172554](https://placehold.co/10/172554/172554) #172554 |
+| Secondary | ![a68c75](https://placehold.co/10/a68c75/a68c75) #a68c75 |
